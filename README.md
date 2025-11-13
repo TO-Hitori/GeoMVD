@@ -2,7 +2,7 @@
 
 
 
-![](assert\top.png)
+![](./assert/top.png)
 
 <p style="text-align: center;">GeoMVD performs excellently on single-image–driven multi-view three-dimensional generation, is compatible with real photographs, synthesized images, and two-dimensional illustrations, and maintains cross-view consistency and high qualitycentered.</p>
 
@@ -68,6 +68,7 @@ We thank the authors of the following projects for their excellent contributions
 - [Era3D](https://github.com/pengHTYX/Era3D)
 
   
+
 
 
 
